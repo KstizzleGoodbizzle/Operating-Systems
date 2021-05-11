@@ -1,1 +1,7 @@
-One fuction that operating systems are able to perform is the ability to run applications. These applications cannot just run themselves. They rely on specific architecture  to start them and to be able to activate different files and access different folders and apply the information in them at the correct time. There's a reason the exact same game that runs on Windows and Mac have different versions. They have to create them differently to run on the different ways those operating systems access and enable those files and programs.
+One function that operating systems are able to perform is the ability to run applications. These applications cannot just run themselves. They rely on specific 
+architecture  to start them and to be able to activate different files and access different folders and apply the information in them at the correct time. 
+There's a reason the exact same game that runs on Windows and Mac have different versions. They have to create them differently to run on the different ways 
+those operating systems access and enable those files and programs.
+Another function of operating systems is enabling the computer to use input and output devices. Devices being able to speak to the computer and give information from it
+is something that we often take for granted, but it is only possible due to specific coding done in the operating system. They've even gotten it down now to the point
+where you can just plug and play whereas before you had to download the correct drivers from the web first.
