@@ -5,3 +5,7 @@ those operating systems access and enable those files and programs.
 Another function of operating systems is enabling the computer to use input and output devices. Devices being able to speak to the computer and give information from it
 is something that we often take for granted, but it is only possible due to specific coding done in the operating system. They've even gotten it down now to the point
 where you can just plug and play whereas before you had to download the correct drivers from the web first.
+Another function of operating systems is to give you a user interface. Most OS's nowadays give you a GUI, but some still do other options like a text based interface.
+But no matter what, the OS you are using gives you some form of interface. This is required to be able to interact with the computer and without that basic step the 
+computer would be all but useless. Interfaces are integral and may seem simple, but revolutions in them have gone on to change computing dramatically and we notice 
+different operating systems almost immediately based on their unique user interface.
